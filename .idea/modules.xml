@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ThisIsLastProject.iml" filepath="$PROJECT_DIR$/.idea/ThisIsLastProject.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/discog-project/.idea/discog-project.iml" filepath="$USER_HOME$/Downloads/discog-project/.idea/discog-project.iml" />
     </modules>
   </component>
 </project>

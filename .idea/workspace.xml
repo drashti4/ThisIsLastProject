@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="202366e7-7d1c-4136-817f-7bf880140690" name="Default Changelist" comment="" />
+    <list default="true" id="202366e7-7d1c-4136-817f-7bf880140690" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/RegisterComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/webpack.config.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/Downloads/discog-project/client/src/Components/HomeComponent.jsx" beforeDir="false" afterPath="$USER_HOME$/Downloads/discog-project/client/src/Components/HomeComponent.jsx" afterDir="false" />
+      <change beforePath="$USER_HOME$/Downloads/discog-project/client/src/Components/TrafficComponent.js" beforeDir="false" afterPath="$USER_HOME$/Downloads/discog-project/client/src/Components/TrafficComponent.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/Downloads/discog-project/server/server.js" beforeDir="false" afterPath="$USER_HOME$/Downloads/discog-project/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ThisIsLastProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ThisIsLastProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/database/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/database/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/HTTPhandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/HTTPhandler.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,22 +37,41 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1fSyI7JOyBrh3BJSekWTuBFoA46" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\isi\Final project - theory\ThisIsLastProject" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,10 +84,43 @@
       <option name="presentableId" value="Default" />
       <updated>1596225705443</updated>
       <workItem from="1596225706614" duration="6933000" />
+      <workItem from="1596342688022" duration="504000" />
+      <workItem from="1596462573234" duration="3642000" />
+      <workItem from="1596665424173" duration="2246000" />
+      <workItem from="1596731706420" duration="15762000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596740119824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596740119824" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1596738757511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596738757511" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1596738757511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596738757511" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1596738757511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596738757511" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1596738757511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596738757511" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1596741912048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596741912048" />
   </component>
 </project>
